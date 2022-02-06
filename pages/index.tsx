@@ -10,7 +10,7 @@ export default function Home() {
       <StyledContainer>
         <PageHeader
           title="Swap"
-          subtitle="Swap between your favorite assets on Juno."
+          subtitle="DIOCaNE."
         />
         <TokenSwap />
       </StyledContainer>
